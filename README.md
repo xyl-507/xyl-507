@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuanliang Xue</h1>
 <h3 align="left">Welcome to my page!</h3>
 
-- 👯 I'm now a PhD student from Xi'an High-Tech Research Institute.
+- 👨‍🎓 I'm now a PhD student from Xi'an High-Tech Research Institute.
 
-- 🌱 My research interest is **UAV object tracking based on Siamese neural network and Transformer**.
+- 📚 My research interest is **UAV object tracking based on Siamese neural network and Transformer**.
 
 - ⚡ I’m currently learning about `multi-modal visual object tracking`
 
