@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuanliang Xue</h1>
-- 🌱 I’m currently learning: UAV object tracking
+- 🌱 My research interest is UAV object tracking based on Siamese neural network and Transformer.
 
 
 
