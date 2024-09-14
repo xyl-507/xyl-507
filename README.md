@@ -8,7 +8,10 @@
 - ⚡ I’m currently learning about `multi-modal visual object tracking`
 
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=xyl-507)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=xyl-507)](https://git.io/streak-stats)
 ![python](https://github-readme-stats.vercel.app/api/top-langs/?username=xyl-507&layout=compact&hide_border=true&langs_count=10)
+
+![](https://komarev.com/ghpvc/?username=xyl-507&abbreviated=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
