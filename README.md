@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuanliang Xue</h1>
-<h3 align="left">Welcome to my page!</h3>
+<h3 align="left">Personal information</h3>
 
 - 👨‍🎓 My name is Yuanliang Xue (薛远亮). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
 
@@ -13,6 +13,9 @@
 
 - 📫 How to reach me: xyl_507@outlook.com
 
+<h3 align="left">Welcome to my page!</h3>
+<p align="left">
+</p>
 
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=xyl-507)](https://github.com/anuraghazra/github-readme-stats) 
 ![python](https://github-readme-stats.vercel.app/api/top-langs/?username=xyl-507&layout=compact&hide_border=true&langs_count=10)
