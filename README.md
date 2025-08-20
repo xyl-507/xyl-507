@@ -7,7 +7,7 @@
 
 - ⚡ Now I am severing as a reviewer for `IEEE TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, JSTARS, ASOC, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc`. More information is on https://orcid.org/0000-0002-8753-4990
 
-🔥 News
+🔥 **News**
 - *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT.
 - *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. 
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
