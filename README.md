@@ -12,7 +12,7 @@
 - *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT)
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack)
 - *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR. SGLATrack [[Paper]](https://ieeexplore.ieee.org/abstract/document/11094982) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
-- *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. CRM [[Paper]](https://ieeexplore.ieee.org/document/10551855) [[Code]](https://github.com/xyl-507/CRM)——(***ESI Highly cited Paper***)
+- *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. CRM [[Paper]](https://ieeexplore.ieee.org/document/10551855) [[Code]](https://github.com/xyl-507/CRM)——***ESI Highly cited Paper***
 - *2024.08*: &nbsp;🎉🎉 one paper is accepted in TIM. QRDT [[Paper]](https://ieeexplore.ieee.org/document/10633268) [[Code]](https://github.com/xyl-507/QRDT)
 - *2023.08*: &nbsp;🎉🎉 one paper is accepted in TGRS. SmallTrack [[Paper]](https://ieeexplore.ieee.org/document/10220112) [[Code]](https://github.com/xyl-507/SmallTrack)
 
