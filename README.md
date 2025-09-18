@@ -20,7 +20,7 @@
 <p align="left">
 </p>
 
-- 📫 How to reach me: xyl_507@outlook.com
+- 📫 For any academic exchange or cooperation: xyl_507@outlook.com
 
 <h3 align="left">Welcome to my page!</h3>
 <p align="left">
