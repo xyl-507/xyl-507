@@ -5,7 +5,9 @@
 
 - 📚 My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include **object detection and tracking, aerial detection and tracking**. I have published 10+ papers related to above topics on some international conferences and journals
 
-- ⚡ Now I am severing as a reviewer for `CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, JSTARS, ASOC, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc`. More information is on https://orcid.org/0000-0002-8753-4990
+- ⚡ Now I am severing as a reviewer for `CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, JSTARS, ASOC, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc`. 
+
+- More information is on *https://xyl-507.github.io/* or *https://orcid.org/0000-0002-8753-4990*
 
 🔥 **Academic News**
 - *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
