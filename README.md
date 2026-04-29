@@ -5,19 +5,23 @@
 
 - 📚 My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include **object detection and tracking, aerial detection and tracking**. I have published 20+ papers related to above topics on some international conferences and journals
 
-- ⚡ Now I am severing as a reviewer for `CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, JSTARS, ASOC, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc`. 
+- ⚡ Now I am severing as a reviewer for `CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TIM, TASE, ISPRS Jour. of Pho. and RS, PR, JSTARS, ASOC, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc`. 
 
 - More information is on *https://xyl-507.github.io/* or *https://orcid.org/0000-0002-8753-4990*
 
 🔥 **Academic News**
-- *2025.11*: &nbsp;🎉🎉 one paper is accepted in AAAI2026. MUTrack [[Paper]]() [[Code]]()
+- *2026.04*: &nbsp;🎉🎉 one paper is accepted in J. King Saud Univ. Comput. Inf. Sci. Ship-SAR [[Paper]](https://link.springer.com/article/10.1007/s44443-026-00713-7) [[Code]]()
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. PNTrack [[Paper]]() [[Code]](https://github.com/Azong-HQU/PNTrack)
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. LETrack [[Paper]]() [[Code]]()
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. EATrack [[Paper]]() [[Code]]()
+- *2025.11*: &nbsp;🎉🎉 one paper is accepted in AAAI2026. MUTrack [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38052) [[Code]]()
 - *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
-- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT)
+- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT) ——***🏆 ESI Highly cited Paper***
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack) ——***🏆 ESI Highly cited Paper*** ***🔥 ESI Hot Paper***
 - *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2025. SGLATrack [[Paper]](https://ieeexplore.ieee.org/abstract/document/11094982) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
 - *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. CRM [[Paper]](https://ieeexplore.ieee.org/document/10551855) [[Code]](https://github.com/xyl-507/CRM) ——***🏆 ESI Highly cited Paper*** ***🔥 ESI Hot Paper***
 - *2024.08*: &nbsp;🎉🎉 one paper is accepted in TIM. QRDT [[Paper]](https://ieeexplore.ieee.org/document/10633268) [[Code]](https://github.com/xyl-507/QRDT)
-- *2023.08*: &nbsp;🎉🎉 one paper is accepted in TGRS. SmallTrack [[Paper]](https://ieeexplore.ieee.org/document/10220112) [[Code]](https://github.com/xyl-507/SmallTrack)——***🏆 ESI Highly cited Paper***
+- *2023.08*: &nbsp;🎉🎉 one paper is accepted in TGRS. SmallTrack [[Paper]](https://ieeexplore.ieee.org/document/10220112) [[Code]](https://github.com/xyl-507/SmallTrack) ——***🏆 ESI Highly cited Paper***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
